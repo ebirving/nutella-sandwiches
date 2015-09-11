@@ -1,9 +1,9 @@
 ## LEARNING OBJECTIVES
 Students will be able to…
-	- Explain what AJAX is and what benefits it offers for front end programming
-	- Identify the fundamental elements of an AJAX request
-	- Define JSON and Javascript Promises, and discuss their roles in asynchronous, object-oriented programming
-	- Use Vanilla Javascript to make an asynchronous ‘GET’ request for data
+- Explain what AJAX is and what benefits it offers for front end programming
+- Identify the fundamental elements of an AJAX request
+- Define JSON and Javascript Promises, and discuss their roles in asynchronous, object-oriented programming
+- Use Vanilla Javascript to make an asynchronous ‘GET’ request for data
 
 
 ## LESSON PLAN
