@@ -40,18 +40,28 @@ Take a look at this list of the fundamental building blocks of an AJAX request. 
 
 ### I DO (5 min)
 
-#### Disclaimer
-The syntax is arguably easier in jQuery, but we’re going to be dealing with Vanilla Javascript today. Why might that be beneficial?
-
 #### Code Demo
 
-There and two more new friends we need to get this party started:
+There and two more new friends we need to get this party started. The first is...
   - **JSON**
     - JSON stands for JavaScript Object Notation
     - JSON is a lightweight data-interchange format
-    - JSON is language independent (SON uses JavaScript syntax, but the JSON format is text only, just like XML.
+    - JSON is language independent (JSON uses JavaScript syntax, but the JSON format is text only, just like XML.
 Text can be read and used as a data format by any programming language.)
-    - JSON looks like this:
+    - JSON looks like this: Review!!!
+    
+> "But, I thought the "J" stood for Javascript! And where's the X?!"
+
+
+### YOU DO (3 min)
+
+[JSON Bourne](https://github.com/ebirving/JSON-bourne)
+
+
+
+
+
+
 
   - [**Promises**](http://www.html5rocks.com/en/tutorials/es6/promises/#toc-async)
     - "The promise constructor takes one argument, a callback with two parameters, resolve and reject. Do something within the callback, perhaps async, then call resolve if everything worked, otherwise call reject."
@@ -97,6 +107,4 @@ get('story.json').then(JSON.parse).then(function(response) {
 
 ```
 
-### YOU DO (3 min)
 
-[JSON Bourne](https://github.com/ebirving/JSON-bourne)
